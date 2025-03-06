@@ -1,0 +1,624 @@
+{
+  "user_balances": {
+    "6302205267": 106.0,
+    "7411683341": 100.1,
+    "5102323588": 341.5,
+    "5202797307": 71.0,
+    "1087968824": 0,
+    "1025523286": 100.0,
+    "5112263698": 0
+  },
+  "user_invoice_data": {
+    "5112263698": {
+      "amount": 2.0,
+      "state": "currency"
+    }
+  },
+  "banned_users": [
+    "@web3rapist"
+  ],
+  "allowed_groups": [
+    -1002454777356,
+    -1002151122547
+  ],
+  "admin_users": [
+    6302205267,
+    5102323588
+  ],
+  "wallets": {
+    "usdt_trc20": "TA78CUTWe21C7gtRw98qCnXx4hGugVwS1a",
+    "usdt_bep20": "0x7BD9d8d979075900dcFCcE50B24a97818Cbb0DAf",
+    "bitcoin": "bc1q0cm7lngf0s23u9shneu0fahpfhwyt9w3hrs9vw",
+    "litecoin": "ltc1qz3j47uggpw4ml60x060frj922fq02g5xgrr7ac"
+  },
+  "admin_group": -1002151122547,
+  "pending_invoices": {},
+  "completed_invoices": [
+    {
+      "user_id": "6302205267",
+      "amount": 15.0,
+      "currency": "bitcoin",
+      "wallet": "bc1qBTCWALLET",
+      "network": "Bitcoin Network",
+      "created_time": 1740815202.7822528,
+      "expiry_time": 1740817002.7822528,
+      "username": "zexxy",
+      "full_name": "Zexxy @Quantumflasher",
+      "status": "approved",
+      "approved_by": 6302205267,
+      "approved_time": 1740815216.3307304
+    },
+    {
+      "user_id": "6302205267",
+      "amount": 5.0,
+      "currency": "bitcoin",
+      "wallet": "bc1q0cm7lngf0s23u9shneu0fahpfhwyt9w3hrs9vw",
+      "network": "Bitcoin Network",
+      "created_time": 1740816311.744166,
+      "expiry_time": 1740818111.744166,
+      "username": "zexxy",
+      "full_name": "Zexxy @Quantumflasher",
+      "status": "approved",
+      "approved_by": 5102323588,
+      "approved_time": 1740816476.6284635
+    },
+    {
+      "user_id": "6302205267",
+      "amount": 25.0,
+      "currency": "bitcoin",
+      "wallet": "bc1q0cm7lngf0s23u9shneu0fahpfhwyt9w3hrs9vw",
+      "network": "Bitcoin Network",
+      "created_time": 1740826889.104977,
+      "expiry_time": 1740828689.104977,
+      "username": "zexxy",
+      "full_name": "Zexxy @Quantumflasher",
+      "status": "approved",
+      "approved_by": 6302205267,
+      "approved_time": 1740826932.6138933
+    },
+    {
+      "user_id": "7411683341",
+      "amount": 5.0,
+      "currency": "litecoin",
+      "wallet": "ltc1qz3j47uggpw4ml60x060frj922fq02g5xgrr7ac",
+      "network": "Litecoin Network",
+      "created_time": 1741067285.2033658,
+      "expiry_time": 1741069085.2033658,
+      "username": "web3rapist",
+      "full_name": "Ads for @zexxy",
+      "status": "approved",
+      "approved_by": 6302205267,
+      "approved_time": 1741067288.50315
+    },
+    {
+      "user_id": "7411683341",
+      "amount": 30.0,
+      "currency": "bitcoin",
+      "wallet": "bc1q0cm7lngf0s23u9shneu0fahpfhwyt9w3hrs9vw",
+      "network": "Bitcoin Network",
+      "created_time": 1741069017.2249653,
+      "expiry_time": 1741070817.2249653,
+      "username": "web3rapist",
+      "full_name": "Ads for @zexxy",
+      "status": "approved",
+      "approved_by": 6302205267,
+      "approved_time": 1741069023.1377559
+    },
+    {
+      "user_id": "6302205267",
+      "amount": 5.0,
+      "currency": "litecoin",
+      "wallet": "ltc1qz3j47uggpw4ml60x060frj922fq02g5xgrr7ac",
+      "network": "Litecoin Network",
+      "created_time": 1741076502.7368855,
+      "expiry_time": 1741078302.7368855,
+      "username": "zexxy",
+      "full_name": "Zexxy @Quantumflasher",
+      "status": "approved",
+      "approved_by": 6302205267,
+      "approved_time": 1741076509.6392767
+    },
+    {
+      "user_id": "6302205267",
+      "amount": 5.0,
+      "currency": "bitcoin",
+      "wallet": "bc1q0cm7lngf0s23u9shneu0fahpfhwyt9w3hrs9vw",
+      "network": "Bitcoin Network",
+      "created_time": 1741076503.340388,
+      "expiry_time": 1741078303.340388,
+      "username": "zexxy",
+      "full_name": "Zexxy @Quantumflasher",
+      "status": "approved",
+      "approved_by": 6302205267,
+      "approved_time": 1741076512.1886883
+    },
+    {
+      "user_id": "5102323588",
+      "amount": 10.0,
+      "currency": "bitcoin",
+      "wallet": "bc1q0cm7lngf0s23u9shneu0fahpfhwyt9w3hrs9vw",
+      "network": "Bitcoin Network",
+      "created_time": 1741156549.2509952,
+      "expiry_time": 1741158349.2509952,
+      "username": "letsflex",
+      "full_name": "KAI",
+      "status": "approved",
+      "approved_by": 5102323588,
+      "approved_time": 1741156577.674907
+    },
+    {
+      "user_id": "5102323588",
+      "amount": 10.0,
+      "currency": "litecoin",
+      "wallet": "ltc1qz3j47uggpw4ml60x060frj922fq02g5xgrr7ac",
+      "network": "Litecoin Network",
+      "created_time": 1741156551.9636376,
+      "expiry_time": 1741158351.9636376,
+      "username": "letsflex",
+      "full_name": "KAI",
+      "status": "approved",
+      "approved_by": 5102323588,
+      "approved_time": 1741156580.1217647
+    },
+    {
+      "user_id": "6302205267",
+      "amount": 10.0,
+      "currency": "litecoin",
+      "wallet": "ltc1qz3j47uggpw4ml60x060frj922fq02g5xgrr7ac",
+      "network": "Litecoin Network",
+      "created_time": 1741156610.9698043,
+      "expiry_time": 1741158410.9698043,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "approved",
+      "approved_by": 5102323588,
+      "approved_time": 1741156618.401815
+    },
+    {
+      "user_id": "6302205267",
+      "amount": 5.0,
+      "currency": "litecoin",
+      "wallet": "ltc1qz3j47uggpw4ml60x060frj922fq02g5xgrr7ac",
+      "network": "Litecoin Network",
+      "created_time": 1741176471.7858973,
+      "expiry_time": 1741178271.7858973,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "approved",
+      "approved_by": 6302205267,
+      "approved_time": 1741176479.104183
+    },
+    {
+      "user_id": "6302205267",
+      "amount": 94.1,
+      "currency": "bitcoin",
+      "wallet": "bc1q0cm7lngf0s23u9shneu0fahpfhwyt9w3hrs9vw",
+      "network": "Bitcoin Network",
+      "created_time": 1741177331.866253,
+      "expiry_time": 1741179131.8652608,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "approved",
+      "approved_by": 6302205267,
+      "approved_time": 1741177335.8344123
+    },
+    {
+      "user_id": "6302205267",
+      "amount": 55.0,
+      "currency": "litecoin",
+      "wallet": "ltc1qz3j47uggpw4ml60x060frj922fq02g5xgrr7ac",
+      "network": "Litecoin Network",
+      "created_time": 1741177796.3192778,
+      "expiry_time": 1741179596.3192778,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "approved",
+      "approved_by": 6302205267,
+      "approved_time": 1741177801.0658965
+    },
+    {
+      "user_id": "6302205267",
+      "amount": 15.0,
+      "currency": "usdt_trc20",
+      "wallet": "TA78CUTWe21C7gtRw98qCnXx4hGugVwS1a",
+      "network": "TRON (TRC20)",
+      "created_time": 1741257876.5556946,
+      "expiry_time": 1741259676.5556946,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "approved",
+      "approved_by": 6302205267,
+      "approved_time": 1741257912.8638792
+    },
+    {
+      "user_id": "6302205267",
+      "amount": 15.0,
+      "currency": "usdt_bep20",
+      "wallet": "0x7BD9d8d979075900dcFCcE50B24a97818Cbb0DAf",
+      "network": "Binance Smart Chain (BEP20)",
+      "created_time": 1741257901.8589149,
+      "expiry_time": 1741259701.8589149,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "rejected",
+      "rejected_by": 6302205267,
+      "rejected_time": 1741257914.6544433
+    },
+    {
+      "user_id": "5102323588",
+      "amount": 1.0,
+      "currency": "usdt_trc20",
+      "wallet": "TA78CUTWe21C7gtRw98qCnXx4hGugVwS1a",
+      "network": "TRON (TRC20)",
+      "created_time": 1741260207.5876257,
+      "expiry_time": 1741262007.5866292,
+      "username": "letsflex",
+      "full_name": "KAI",
+      "status": "rejected",
+      "rejected_by": 6302205267,
+      "rejected_time": 1741260227.4329815
+    }
+  ],
+  "active_games": {
+    "B68DEB16": {
+      "game_id": "B68DEB16",
+      "chat_id": -1002151122547,
+      "bet_amount": 6969.0,
+      "player1_id": "5102323588",
+      "player1_name": "KAI (@roxscam)",
+      "created_time": 1741067708.54304,
+      "status": "waiting_player2",
+      "rounds": [],
+      "player1_score": 0,
+      "player2_score": 0,
+      "message_id": 8596
+    },
+    "2DB9187A": {
+      "game_id": "2DB9187A",
+      "chat_id": -1002151122547,
+      "bet_amount": 5.0,
+      "player1_id": "6302205267",
+      "player1_name": "Zexxy @Quantumflasher (@zexxy)",
+      "created_time": 1741068142.457307,
+      "status": "playing",
+      "rounds": [],
+      "player1_score": 0,
+      "player2_score": 0,
+      "message_id": 8779,
+      "player2_id": "5102323588",
+      "player2_name": "KAI (@roxscam)",
+      "current_round": 1,
+      "current_player": "player1"
+    },
+    "A9650535": {
+      "game_id": "A9650535",
+      "chat_id": -1002151122547,
+      "bet_amount": 30.0,
+      "player1_id": "5202797307",
+      "player1_name": "\u1d1c\u0274\u026aQ\u1d1c3 \u1d1b\u1d0f\u1d0b\u026a [Revived] (@Kazekage07)",
+      "created_time": 1741258366.7001994,
+      "status": "waiting_player2",
+      "rounds": [],
+      "player1_score": 0,
+      "player2_score": 0,
+      "message_id": 10008
+    },
+    "5923761C": {
+      "game_id": "5923761C",
+      "chat_id": -1002151122547,
+      "bet_amount": 106.0,
+      "player1_id": "6302205267",
+      "player1_name": "Zexxy @gamblechats (@zexxy)",
+      "created_time": 1741258807.6006885,
+      "status": "waiting_player2",
+      "rounds": [],
+      "player1_score": 0,
+      "player2_score": 0,
+      "message_id": 10154
+    }
+  },
+  "active_players": {
+    "5202797307": "A9650535",
+    "6302205267": "5923761C"
+  },
+  "user_wagers": {
+    "6302205267": {
+      "total": 1679.0,
+      "weekly": 1679.0,
+      "last_update": 1741258759.5224855
+    },
+    "7411683341": {
+      "total": 72.9,
+      "weekly": 72.9,
+      "last_update": 1741176681.6750646
+    },
+    "5102323588": {
+      "total": 1248.9,
+      "weekly": 1248.9,
+      "last_update": 1741258759.5224855
+    },
+    "1025523286": {
+      "total": 35.0,
+      "weekly": 35.0,
+      "last_update": 1741176820.6310885
+    },
+    "5202797307": {
+      "total": 356.0,
+      "weekly": 356.0,
+      "last_update": 1741177406.4670541
+    }
+  },
+  "user_withdrawal_data": {},
+  "withdrawal_fees": {
+    "usdt_trc20": 1.5,
+    "usdt_bep20": 0.1,
+    "bitcoin": 2.5,
+    "litecoin": 0.05
+  },
+  "pending_withdrawals": {
+    "DFBC08FB": {
+      "withdrawal_id": "DFBC08FB",
+      "user_id": "6302205267",
+      "amount": 10.0,
+      "fee": 0.05,
+      "receive_amount": 9.95,
+      "currency": "litecoin",
+      "wallet_address": "jiuvtrrcddcfrtf",
+      "created_time": 1741178815.7753513,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats"
+    },
+    "2CA179E5": {
+      "withdrawal_id": "2CA179E5",
+      "user_id": "6302205267",
+      "amount": 12.0,
+      "fee": 2.5,
+      "receive_amount": 9.5,
+      "currency": "bitcoin",
+      "wallet_address": "kjfaskdasoidasjdioa",
+      "created_time": 1741184807.6186376,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats"
+    }
+  },
+  "completed_withdrawals": [
+    {
+      "withdrawal_id": "A1C1986B",
+      "user_id": "6302205267",
+      "amount": 10.0,
+      "fee": 0.05,
+      "total_amount": 10.05,
+      "currency": "litecoin",
+      "wallet_address": "LcsNZ4eDUnLdZWkKieJSEaWXYYX9buea2t",
+      "created_time": 1741156143.992041,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "approved",
+      "approved_by": 5102323588,
+      "approved_time": 1741156161.6659608
+    },
+    {
+      "withdrawal_id": "479EAC64",
+      "user_id": "5102323588",
+      "amount": 95.11,
+      "fee": 0.05,
+      "total_amount": 95.16,
+      "currency": "litecoin",
+      "wallet_address": "LcsNZ4eDUnLdZWkKieJSEaWXYYX9buea2t",
+      "created_time": 1741156240.9719982,
+      "username": "letsflex",
+      "full_name": "KAI",
+      "status": "approved",
+      "approved_by": 5102323588,
+      "approved_time": 1741156244.2046993
+    },
+    {
+      "withdrawal_id": "97B95BB6",
+      "user_id": "5102323588",
+      "amount": 10.0,
+      "fee": 2.5,
+      "total_amount": 12.5,
+      "currency": "bitcoin",
+      "wallet_address": "LcsNZ4eDUnLdZWkKieJSEaWXYYX9buea2t",
+      "created_time": 1741156406.9007597,
+      "username": "letsflex",
+      "full_name": "KAI",
+      "status": "approved",
+      "approved_by": 5102323588,
+      "approved_time": 1741156446.2099147
+    },
+    {
+      "withdrawal_id": "1979F10C",
+      "user_id": "6302205267",
+      "amount": 99957.95,
+      "fee": 0,
+      "total_amount": 99957.95,
+      "currency": "usdt",
+      "wallet_address": "LcsNZ4eDUnLdZWkKieJSEaWXYYX9buea2t",
+      "created_time": 1741156567.5708542,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "approved",
+      "approved_by": 5102323588,
+      "approved_time": 1741156578.4539454
+    },
+    {
+      "withdrawal_id": "57C9E172",
+      "user_id": "6302205267",
+      "amount": 15.0,
+      "fee": 0,
+      "total_amount": 15.0,
+      "currency": "usdt",
+      "wallet_address": "6302205267",
+      "created_time": 1741163514.3007038,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "rejected",
+      "rejected_by": 6302205267,
+      "rejected_time": 1741163520.1245327
+    },
+    {
+      "withdrawal_id": "998CE448",
+      "user_id": "6302205267",
+      "amount": 55.0,
+      "fee": 0,
+      "receive_amount": 55.0,
+      "currency": "usdt",
+      "wallet_address": "1025523286",
+      "created_time": 1741177828.806076,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "approved",
+      "approved_by": 6302205267,
+      "approved_time": 1741177905.299428
+    },
+    {
+      "withdrawal_id": "29B10AC2",
+      "user_id": "6302205267",
+      "amount": 10.0,
+      "fee": 2.5,
+      "receive_amount": 7.5,
+      "currency": "bitcoin",
+      "wallet_address": "1025523286",
+      "created_time": 1741178253.087634,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "approved",
+      "approved_by": 6302205267,
+      "approved_time": 1741178257.657237
+    },
+    {
+      "withdrawal_id": "5DD8756F",
+      "user_id": "6302205267",
+      "amount": 10.0,
+      "fee": 2.5,
+      "receive_amount": 7.5,
+      "currency": "bitcoin",
+      "wallet_address": "kjashdiasud",
+      "created_time": 1741183807.5759733,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "approved",
+      "approved_by": 6302205267,
+      "approved_time": 1741183818.457833
+    },
+    {
+      "withdrawal_id": "9B65D02F",
+      "user_id": "6302205267",
+      "amount": 10.0,
+      "fee": 2.5,
+      "receive_amount": 7.5,
+      "currency": "bitcoin",
+      "wallet_address": "sdkjbasjdasi",
+      "created_time": 1741183863.6179526,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "approved",
+      "approved_by": 5102323588,
+      "approved_time": 1741183967.5628335
+    },
+    {
+      "withdrawal_id": "97398E10",
+      "user_id": "6302205267",
+      "amount": 15.0,
+      "fee": 2.5,
+      "receive_amount": 12.5,
+      "currency": "bitcoin",
+      "wallet_address": "jhdhjbasda",
+      "created_time": 1741255578.091616,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "rejected",
+      "rejected_by": 6302205267,
+      "rejected_time": 1741255581.452319
+    },
+    {
+      "withdrawal_id": "AC387672",
+      "user_id": "6302205267",
+      "amount": 15.0,
+      "fee": 0.1,
+      "receive_amount": 14.9,
+      "currency": "usdt_bep20",
+      "wallet_address": "yayyyfixeddd",
+      "created_time": 1741256959.6758533,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "rejected",
+      "rejected_by": 6302205267,
+      "rejected_time": 1741256964.8709419
+    },
+    {
+      "withdrawal_id": "C0140EEF",
+      "user_id": "6302205267",
+      "amount": 15.0,
+      "fee": 1.5,
+      "receive_amount": 13.5,
+      "currency": "usdt_trc20",
+      "wallet_address": "yayyyyyyyyyyyyyyyy",
+      "created_time": 1741256981.1411963,
+      "username": "zexxy",
+      "full_name": "Zexxy @gamblechats",
+      "status": "approved",
+      "approved_by": 6302205267,
+      "approved_time": 1741256992.7272134
+    }
+  ],
+  "tip_history": [
+    {
+      "from_id": "6302205267",
+      "to_id": "5102323588",
+      "amount": 5.0,
+      "timestamp": 1741256206.8982139,
+      "from_name": "Zexxy @gamblechats",
+      "to_name": "KAI"
+    },
+    {
+      "from_id": "6302205267",
+      "to_id": "5102323588",
+      "amount": 5.0,
+      "timestamp": 1741256231.0077882,
+      "from_name": "Zexxy @gamblechats",
+      "to_name": "KAI"
+    },
+    {
+      "from_id": "5102323588",
+      "to_id": "6302205267",
+      "amount": 69.0,
+      "timestamp": 1741256232.3219492,
+      "from_name": "KAI",
+      "to_name": "Zexxy @gamblechats"
+    },
+    {
+      "from_id": "5102323588",
+      "to_id": "6302205267",
+      "amount": 69.0,
+      "timestamp": 1741258427.9767401,
+      "from_name": "KAI",
+      "to_name": "Zexxy @gamblechats"
+    },
+    {
+      "from_id": "5202797307",
+      "to_id": "6302205267",
+      "amount": 29.0,
+      "timestamp": 1741258429.679819,
+      "from_name": "\u1d1c\u0274\u026aQ\u1d1c3 \u1d1b\u1d0f\u1d0b\u026a [Revived]",
+      "to_name": "Zexxy @gamblechats"
+    },
+    {
+      "from_id": "5102323588",
+      "to_id": "6302205267",
+      "amount": 69.0,
+      "timestamp": 1741258685.7962046,
+      "from_name": "KAI",
+      "to_name": "Zexxy @gamblechats"
+    },
+    {
+      "from_id": "5102323588",
+      "to_id": "6302205267",
+      "amount": 69.0,
+      "timestamp": 1741258696.1142063,
+      "from_name": "KAI",
+      "to_name": "Zexxy @gamblechats"
+    }
+  ]
+}
